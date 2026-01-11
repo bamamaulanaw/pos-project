@@ -138,7 +138,7 @@
                   />
                   <p>
                     Bama Maulana Wibisana - Web Developer
-                    <small>Creator in 2025</small>
+                    <small>Creator in 2026</small>
                   </p>
                 </li>
                 <!--end::User Image-->
@@ -162,7 +162,7 @@
         <!--begin::Sidebar Brand-->
         <div class="sidebar-brand">
           <!--begin::Brand Link-->
-          <a href="./index.html" class="brand-link">
+          <a href="./home" class="brand-link">
             <!--begin::Brand Image-->
             <img
               src="{{ asset('assets/img/AdminLTELogo.png') }}"
@@ -297,7 +297,7 @@
         <!--end::To the end-->
         <!--begin::Copyright-->
         <strong>
-          Copyright &copy; 2014-2025&nbsp;
+          Copyright &copy; 2026&nbsp;
           <a href="https://adminlte.io" class="text-decoration-none">AdminLTE.io</a>.
         </strong>
         All rights reserved.
